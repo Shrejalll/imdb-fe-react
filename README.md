@@ -47,7 +47,7 @@ To run the application locally, use the following command:
 
 ```bash
 npm start
-
+```
 4. Acknowledgment
 Thanks to the IMDb API for providing movie data.
 
