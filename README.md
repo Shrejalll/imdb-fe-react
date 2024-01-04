@@ -51,6 +51,8 @@ npm start
 4. Acknowledgment
 Thanks to the IMDb API for providing movie data.
 
+Link:- https://imdb-fe-shrejalll.netlify.app
+
 ![Untitled Project](https://github.com/Shrejalll/imdb-fe-react/assets/139336892/60e962be-0b27-4bb6-9de7-956f31882bad)
 
 ![Web_Photo_Editor](https://github.com/Shrejalll/imdb-fe-react/assets/139336892/b40b7cad-6159-469f-9d72-596b7465f6bf)
